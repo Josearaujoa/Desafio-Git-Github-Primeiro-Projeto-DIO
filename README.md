@@ -7,7 +7,7 @@ Agora é a sua brilhar, use todo seu conhecimento em Git e Git para criar o seu 
 
 Desta forma, outros Devs ou empresas podem acessar seu portfólio de projetos e colaborar/acompanhar sua evolução profissional ;)
 
-# Contatos s
+# Contatos 
 
 E-mail: antoniocarmoaraujo@gmail.com
 
